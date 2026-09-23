@@ -2,6 +2,6 @@ suggestions for improving this repository
 
 please add your suggestions below
 
--suggestion 1:
--suggestion 2:
--suggestion 3:
+-fruit names
+-food names
+-day names
